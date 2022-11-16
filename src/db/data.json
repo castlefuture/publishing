@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "mirae@test.com",
+      "password": "1234"
+    },
+    {
+      "email": "log@naver.com",
+      "password": "asdf"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "hello"
+    }
+  ]
+}
